@@ -20,3 +20,8 @@
   ![Snake animation](https://github.com/Vinicius-b-oliveira/Vinicius-b-oliveira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<div>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-b-oliveira&show_icons=true&theme=radical)
+ 
+ </div>
