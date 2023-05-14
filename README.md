@@ -17,7 +17,6 @@
 ### Minhas redes sociais estão dispostas abaixo!
  
 <div> 
-  <a href="https://www.instagram.com/vini_bueno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciusbuenodeoliveira2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Vinicius-b-oliveira/Vinicius-b-oliveira/blob/output/github-contribution-grid-snake.svg)
