@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil do Vinicius-b-oliveira!
+# <h1 align="center">Olá, eu sou Vinícius Bueno de Oliveira</h1>
+
+<p align="center">
+  Sou estudante de programação e atualmente estou cursando engenharia de software, além de outros cursos em paralelo. Atualmente focado em criar aplicativos Web que sejam tanto de fácil manutenção quanto de utilização intuitiva, visando proporcionar uma experiência de usuário impecável. Estou em constante busca pelo aprendizado e pela experimentação de novas tecnologias e frameworks.
+</p>
+
+##
 
 <div>
   <a href="https://github.com/Vinicius-b-oliveira">
