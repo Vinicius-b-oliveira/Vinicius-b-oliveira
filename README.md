@@ -24,7 +24,7 @@
   ### Mais sobre mim
   <br>
   
-  ```csharp
+  ```js
   
   • ✅ Atualmente estudando ReactJS
 
