@@ -35,7 +35,7 @@
   ```
 
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,postgres,mongodb"/>
 </div>
  
 <br>
