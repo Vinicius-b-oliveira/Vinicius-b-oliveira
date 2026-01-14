@@ -23,10 +23,10 @@
 
 ### ⚡ Current Focus
 
-- 🔭 **Role:** Architecting a multi-tenant SaaS platform using **Laravel 12 (API)** and **Next.js 15**.
-- 📱 **Mobile:** Developing high-quality mobile applications with **Flutter** and **Riverpod**.
-- ⚙️ **Backend:** Implementing **Queues**, **Jobs**, and optimizing workflows with **Docker (Sail)**.
-- 🌱 **Learning:** Improving my skills in basic **AWS** integrations and Microservices concepts.
+- **Role:** Architecting a multi-tenant SaaS platform using **Laravel 12 (API)** and **Next.js 15**.
+- **Mobile:** Developing high-quality mobile applications with **Flutter** and **Riverpod**.
+- **Backend:** Implementing **Queues**, **Jobs**, and optimizing workflows with **Docker (Sail)**.
+- **Learning:** Improving my skills in basic **AWS** integrations and Microservices concepts.
 
 <br>
 
@@ -34,7 +34,7 @@
 
 | **Backend** | **Frontend** | **Mobile** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,postgres" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=flutter,dart" /> | <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions" /> |
+| <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,postgres" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=flutter,dart" /> | <img src="https://skillicons.dev/icons?i=docker,aws,git" /> |
 
 <br>
 
