@@ -25,7 +25,8 @@
 
 - 🔭 **Role:** Architecting a multi-tenant SaaS platform using **Laravel 12 (API)** and **Next.js 15**.
 - 📱 **Mobile:** Developing high-quality mobile applications with **Flutter** and **Riverpod**.
-- ⚙️ **Tech:** Deepening knowledge in **AWS**, Docker, Queues, Jobs, and Event-Driven Design.
+- ⚙️ **Backend:** Implementing **Queues**, **Jobs**, and optimizing workflows with **Docker (Sail)**.
+- 🌱 **Learning:** Improving my skills in basic **AWS** integrations and Microservices concepts.
 
 <br>
 
@@ -37,11 +38,14 @@
 
 <br>
 
-### 📊 Stats
+### 📊 Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel-fast.app/api?username=vinicius-b-oliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel-fast.app/api/top-langs/?username=vinicius-b-oliveira&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-b-oliveira&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github.com/vinicius-b-oliveira/vinicius-b-oliveira/blob/metrics/github-metrics.svg" width="100%" alt="Languages Graph" />
 </div>
 
 <br>
