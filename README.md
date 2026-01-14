@@ -38,14 +38,14 @@
 
 <br>
 
-### 📊 Stats & Languages
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-b-oliveira&theme=transparent&hide_border=true" alt="GitHub Streak" />
   
   <br>
 
-  <img src="https://github.com/vinicius-b-oliveira/vinicius-b-oliveira/blob/metrics/github-metrics.svg" width="100%" alt="Languages Graph" />
+  <img src="https://github.com/vinicius-b-oliveira/vinicius-b-oliveira/blob/metrics/my-langs.svg" width="100%" alt="Languages Graph" />
 </div>
 
 <br>
